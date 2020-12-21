@@ -23,10 +23,10 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-version = "1.1.0"
+version = "1.0.3"
 
-project.extra["PluginName"] = "RuneMiner"
-project.extra["PluginDescription"] = "Automatically Mines  Essence"
+project.extra["PluginName"] = "CakeYoinker"
+project.extra["PluginDescription"] = "Automatically Steals Cakes"
 
 dependencies {
 
